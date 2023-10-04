@@ -55,7 +55,7 @@ namespace BetterRabbitFoot
               IsPooled: true,
               HideMesuem: false,
               IsUpgradable: true,
-              Rarity: Rarity.Rare,
+              Rarity: Rarity.Uncommon,
               Type: CardType.Skill,
               TargetType: TargetType.Self,
               Colors: new List<ManaColor>() { },
