@@ -1,0 +1,7 @@
+﻿RabbitFoot:
+  Description: "|At the end of combat|: If {SelfName} isn't |Exiled|, gain {Value1}\
+    \ <sprite=\"Point\" name=\"Gold\">.\n\
+    Draw a card."
+  Name: Lucky Rabbit's Foot
+  FlavorText: One might think getting a Rabbit's Foot will make you lucky. In actuality,
+    only people who are already lucky can obtain a Rabbit's Foot.
