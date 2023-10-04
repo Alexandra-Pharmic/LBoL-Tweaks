@@ -1,0 +1,4 @@
+﻿ArtificialJewellery:
+  Description: Gain 2 random mana.
+  UpgradedDescription: Gain {Mana}.
+  Name: Artificial Jewelry
