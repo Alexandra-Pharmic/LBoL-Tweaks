@@ -1,0 +1,4 @@
+﻿BlackPoison:
+  Name: Dark Dancer
+  Description: Whenever {PlayerName} deals unblocked attack damage, also apply {Value1}
+    |Poison|.
