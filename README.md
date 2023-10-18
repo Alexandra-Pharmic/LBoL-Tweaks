@@ -7,6 +7,7 @@ They are offered separately so that you can pick and choose which ones you want 
 [Check out Neoshrimp's guide.](https://github.com/Neoshrimp/LBoL-Entity-Sideloader/tree/master)
 
 ### Mods that primarily aim to tweak stuff
+* GruulDancer: Changes the card "Dark Dancer" from Black/Green to Black/Red.
 * WhiteButterfly: Changes the card "Butterfly's Wingbeats" from green to white.
 
 ### Mods that buff the player or nerf the enemies
